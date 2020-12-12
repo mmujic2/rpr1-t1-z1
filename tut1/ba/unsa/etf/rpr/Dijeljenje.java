@@ -12,5 +12,6 @@ public class Dijeljenje {
 		int broj2;
 		broj2 = ulaz.nextInt();
 		System.out.println("Brojevi koji ste unijeli su: " + broj1 + " i " + broj2);
+		System.out.println("Test");
 	}
 }
